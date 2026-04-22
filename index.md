@@ -13,7 +13,7 @@ Tämä on staattinen sivu, joka on tehty Markdownilla GitHub Pagesia varten.
 - [Markdown Guide](https://www.markdownguide.org)
 
 ## 🖼️ Kuva
-![Esimerkkikuva](https://via.placeholder.com/400)
+![kuvia](kuvia.jpg)
 
 ## 💻 Koodiesimerkki
 ```python
