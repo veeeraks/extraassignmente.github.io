@@ -1,19 +1,20 @@
 # Minun GitHub Pages -sivu
 
-## Tervetuloa
-Tämä on staattinen sivu Markdownilla.
+## 👋 Tervetuloa
+Tämä on staattinen sivu, joka on tehty Markdownilla GitHub Pagesia varten.
 
-### Lista
-- Kohta 1
-- Kohta 2
-- Kohta 3
+## 🔧 Käytetyt teknologiat
+- GitHub Pages
+- Markdown
+- WebAssembly
 
-### Linkki
-[GitHub](https://github.com)
+## 🔗 Linkkejä
+- [GitHub](https://github.com)
+- [Markdown Guide](https://www.markdownguide.org)
 
-### Kuva
-![kuva](https://via.placeholder.com/300)
+## 🖼️ Kuva
+![Esimerkkikuva](https://via.placeholder.com/400)
 
-### Koodiblokki
+## 💻 Koodiesimerkki
 ```python
-print("Hello World")
+print("Hello GitHub Pages!")
