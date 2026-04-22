@@ -5,16 +5,21 @@ Tämä on staattinen sivu, joka on tehty Markdownilla GitHub Pagesia varten.
 
 ## 🔧 Käytetyt teknologiat
 - GitHub Pages
-- Markdown
-- WebAssembly
+* Markdown
 
 ## 🔗 Linkkejä
 - [GitHub](https://github.com)
-- [Markdown Guide](https://www.markdownguide.org)
+* [Markdown Guide](https://www.markdownguide.org)
++ [Skyscanner](https://www.skyscanner.fi/)
 
 ## 🖼️ Kuva
 ![kuvia](kuvia.jpg)
 
 ## 💻 Koodiesimerkki
-```python
-print("Hello GitHub Pages!")
+```C++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello GitHub Pages!" << std::endl;
+    return 0;
+})
