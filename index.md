@@ -27,5 +27,5 @@ int main() {
     return 0;
 })
 ```
-[!NOTE]
-Tämä on testi vain.
+> **Huom!**
+> Tämä on testi vain.
