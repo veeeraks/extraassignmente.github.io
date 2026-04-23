@@ -1,4 +1,4 @@
-# Minun GitHub Pages -sivu
+# GitHub Pages -sivu
 
 ## 👋 Moikka
 Tämä on staattinen sivu, joka on tehty Markdownilla GitHub Pagesia varten.
@@ -27,5 +27,5 @@ int main() {
     return 0;
 })
 ```
-> [!NOTE]
-> Tämä on testi vain.
+[!NOTE]
+Tämä on testi vain.
